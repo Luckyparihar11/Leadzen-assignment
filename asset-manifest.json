@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Leadzen-assignment/static/css/main.6d01d913.css",
+    "main.js": "/Leadzen-assignment/static/js/main.8e3e6e9d.js",
+    "index.html": "/Leadzen-assignment/index.html",
+    "main.6d01d913.css.map": "/Leadzen-assignment/static/css/main.6d01d913.css.map",
+    "main.8e3e6e9d.js.map": "/Leadzen-assignment/static/js/main.8e3e6e9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d01d913.css",
+    "static/js/main.8e3e6e9d.js"
+  ]
+}
